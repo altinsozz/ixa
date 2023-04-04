@@ -1,8 +1,9 @@
 {
-    "invite_code": "Put your invite code here! ONLY THE CODE", 
-    "capmonster_key": "Put your capmonster api key here!",
-    "threads": 75,
+    "invite_code": "Ba4a9aRdWp", 
+    "capmonster_key": "d1c66b006fce96d4243ae7bab3fdb7c3",
+    "threads": 3,
     "online_tokens": false,
     "token base_name": "AXI",
     "password": "AxiDevelopmentMadeByDorukuz#4555"
+    
 }
